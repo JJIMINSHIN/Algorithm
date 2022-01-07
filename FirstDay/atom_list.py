@@ -1,8 +1,6 @@
-#리스트 연결
+lan1 = ["English", "Japanese", "Python"]
+lan2 = ["Python","Korean", "Java", "Chinese"]
 
-lang1 = ["C+","C++","JAVA"]
-lang2 =["Python","Go","C#"]
-
-langs = lang1 + lang2
-
-print(langs)
+lans = lan1+ lan2
+lans=list(set(lans))
+print(lans)
