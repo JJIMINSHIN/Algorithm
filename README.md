@@ -12,3 +12,4 @@
 #Session
 
 [FirstDay] [https://www.notion.so/1-ce82b1bd66214e438c4a8f62d29747b0]
+[SecondDay] [https://www.notion.so/1-ce82b1bd66214e438c4a8f62d29747b0]
