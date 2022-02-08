@@ -10,7 +10,6 @@
 
 
 #Session
-[ 🌳 초록초록 시작하기 ]( https://github.com/gdsckoreahackathon2022/38_GreenGreen/tree/main/apk)
 
 [☝🏻irstDay](https://www.notion.so/1-ce82b1bd66214e438c4a8f62d29747b0)<br>
 [SecondDay](https://www.notion.so/1-ce82b1bd66214e438c4a8f62d29747b0)<br>
